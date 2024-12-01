@@ -15,11 +15,11 @@ export function Hero() {
           Frontend Lead | Indie Game Developer
         </h2>
         <p className="w-10/12">
-          I'm passionate about blending design and technology, leading front-end
-          projects by day and crafting captivating game experiences in my spare
-          time.
+          {`I'm passionate about blending design and technology, leading
+          front-end projects by day and crafting captivating game experiences in
+          my spare time.`}
           <br /> Below some of my personal GitHub repos and demos.
-          <br /> Thanks for visiting !
+          <br /> Thanks for visiting &apos;!
         </p>
       </div>
     </section>
