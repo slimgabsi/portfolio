@@ -35,13 +35,13 @@ body {
     --radius: 0.5rem;
   }
   .dark {
-    --background: 240 10% 3.9%;
+    --background: 300, 17.3%, 10.4%;
     --foreground: 0 0% 98%;
-    --card: 240 10% 3.9%;
+    --card: 340, 47.5%, 15.5%;
     --card-foreground: 0 0% 98%;
     --popover: 240 10% 3.9%;
     --popover-foreground: 0 0% 98%;
-    --primary: 0 0% 98%;
+    --primary: 8.2, 85.5%, 59.8%;
     --primary-foreground: 240 5.9% 10%;
     --secondary: 240 3.7% 15.9%;
     --secondary-foreground: 0 0% 98%;
@@ -69,4 +69,12 @@ body {
   body {
     @apply bg-background text-foreground;
   }
+}
+
+h1, h2, h3 {
+  @apply text-2xl sm:text-sm md:text-2xl font-bold text-primary;
+}
+
+p {
+  @apply text-base sm:text-sm md:text-base;
 }
