@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   keywords: 'Slim Gabsi, Unity, React, Web Development, Demos', // Keywords for search engines
   robots: 'index, follow', // Allows search engines to index the page
   openGraph: {
-    images: ['/public/website.png'],
+    images: ['/website.png'],
     title: 'Slim Gabsi - Unity & React Demos',
     description:
       'Explore some of the interactive demos with Unity and React by Slim Gabsi.',
