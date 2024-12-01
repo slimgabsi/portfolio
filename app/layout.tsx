@@ -9,11 +9,12 @@ const pressStart2P = Press_Start_2P({
 
 export const metadata: Metadata = {
   title: 'Slim Gabsi',
-  description: 'A page containing a few demos with Unity and React',
+  description:
+    'A portfolio showcasing Unity 3D and React web app demos, built by Slim Gabsi',
   keywords: 'Slim Gabsi, Unity, React, Web Development, Demos', // Keywords for search engines
   robots: 'index, follow', // Allows search engines to index the page
   openGraph: {
-    images: ['/avatar2.jpg'],
+    images: ['/public/website.png'],
     title: 'Slim Gabsi - Unity & React Demos',
     description:
       'Explore some of the interactive demos with Unity and React by Slim Gabsi.',
@@ -25,7 +26,7 @@ export const metadata: Metadata = {
     title: 'Slim Gabsi - Unity & React Demos',
     description:
       'Explore some of the interactive demos with Unity and React by Slim Gabsi.',
-    site: '@slimgabsi',
+    site: '@slim_gabsi1',
   },
 };
 
