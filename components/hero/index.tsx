@@ -19,7 +19,7 @@ export function Hero() {
           front-end projects by day and crafting captivating game experiences in
           my spare time.`}
           <br /> Below some of my personal GitHub repos and demos.
-          <br /> Thanks for visiting &apos;!
+          <br /> Thanks for visiting !
         </p>
       </div>
     </section>
