@@ -10,7 +10,7 @@ export function Hero() {
       >
         <Image src="/avatar2.png" alt="Avatar" width={300} height={300} />
       </a>
-      <div className="flex flex-col gap-8 w-1/2">
+      <div className="flex flex-col gap-8 md:w-1/2 sm:w-full">
         <h2 className="text-2xl leading-tight">
           Frontend Lead | Indie Game Developer
         </h2>
